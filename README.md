@@ -6,7 +6,7 @@
 ### Portfolio & Contacts
 
 
-<a href = "https://alluring-bone-889.notion.site/32f70584972d4bea87d09a2501ac4c72"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href = "https://github.com/MiniVee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> <a href = "https://velog.io/@hm5395"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <img src="https://img.shields.io/badge/minibee5395@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/hm5395@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
+<a href = "https://alluring-bone-889.notion.site/32f70584972d4bea87d09a2501ac4c72"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href = "https://github.com/MiniVee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> <a href = "https://velog.io/@hm5395"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/minibee5395@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/hm5395@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 
 # 💻 My Skills
 ### Languages & Platforms
